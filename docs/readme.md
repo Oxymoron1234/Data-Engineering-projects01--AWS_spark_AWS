@@ -77,10 +77,10 @@ How to run the program in Pycharm:-
 7. If everything works as expected enjoy, else re-try.
 
 Project Architecture:-
-![Architecture](C:\Users\nikita\Pictures\Screenshots\architecture.png)
+![Architecture](![architecture.png](architecture.png))
 
 Database ER Diagram:-
-![Architecture](C:\Users\nikita\Documents\data_engineering\pythonProject\youtube_project\docs\database_schema.drawio.png)
+![Architecture](![database_schema.drawio.png](database_schema.drawio.png))
 
 note : 
 1. I have created this project using MacOS and if you are using windows then please configure the paths in the config file accordingly 
