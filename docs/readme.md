@@ -76,11 +76,11 @@ How to run the program in Pycharm:-
 6. Run main.py from green play button on top right hand side.
 7. If everything works as expected enjoy, else re-try.
 
-Project Architecture:-
-![Architecture](![architecture.png](architecture.png))
+Project Architecture:- 
+![architecture.png](architecture.png)
 
 Database ER Diagram:-
-![Architecture](![database_schema.drawio.png](database_schema.drawio.png))
+![database_schema.drawio.png](database_schema.drawio.png)
 
 note : 
 1. I have created this project using MacOS and if you are using windows then please configure the paths in the config file accordingly 
